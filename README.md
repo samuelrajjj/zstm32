@@ -81,8 +81,7 @@ The project follows a layered architecture to separate application logic from ha
           ┌────────────────────────┐
           │       STM32 HAL        │
           ├────────────────────────┤
-          │ RCC  │ Gnow how to first commit
-PIO │ AFIO     │
+          │ RCC  │ PIO  │ AFIO     │
           │ EXTI │ NVIC │ I2C      │
           │ SPI  │ USART│ TIMERS   │
           └────────────┬───────────┘
