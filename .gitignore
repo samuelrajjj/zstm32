@@ -1,0 +1,5 @@
+.zig-cache/*
+zig-out/*
+setupcommands.txt
+*.bak
+PLAN.md
